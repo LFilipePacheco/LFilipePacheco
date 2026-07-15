@@ -1,16 +1,13 @@
-# Luís Filipe Pacheco
+# Luís Filipe Pacheco CCDR-N
 
-**Senior Agricultural Engineer & Data Scientist** · Environmental Monitoring & GIS
-CCDR-N (Northern Portugal Regional Coordination and Development Commission) · EU Horizon Europe Expert Evaluator
-
-Senior Agricultural Engineer and Data Scientist with over 35 years of experience
+**Senior Agricultural Engineer & Data Scientist** t with over 35 years of experience
 in agricultural systems, rural development and public administration, currently
 focused on the application of data science and geospatial analysis to
 environmental monitoring and agricultural policy.
 
 ## 🌱 Current work
 
-Coordination of the groundwater nitrate monitoring programme of the
+**Northern Portugal Regional Coordination and Development Commission** - Coordination of the groundwater nitrate monitoring programme of the
 Esposende–Vila do Conde Vulnerable Zone (EU Nitrates Directive), where data
 science meets environmental compliance:
 
