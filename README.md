@@ -40,10 +40,10 @@ farming sustainability within the FAO-CIHEAM research network:
   Portugal — INE, 2010), for coordinating the Agricultural Census in the
   Entre Douro e Minho region
 
-Member of the Portuguese Order of Engineers (*Ordem dos Engenheiros*), Senior
-Engineer qualification; internship supervisor appointed by the College of
-Agronomy and member of the Order's Expert Panel. Certified Professional Data
-Scientist (DataCamp).
+Senior Engineer and member of the Portuguese Order of Engineers (Ordem dos Engenheiros).
+Internship supervisor appointed by the College of Agronomic Engineering and member of the Order’s Expert Panel.
+Member of the Portuguese Association for Data Science and Artificial Intelligence.
+DataCamp Certified Professional Data Scientist.
 
 ## 🛠️ Tech stack
 
@@ -59,6 +59,4 @@ Scientist (DataCamp).
 
 [LinkedIn](https://www.linkedin.com/in/lu%C3%ADs-filipe-pacheco-471495b/) ·
 [ORCID](https://orcid.org/0009-0001-7676-6542)
-
-Working languages: Portuguese (native) · English · French · Spanish
 
