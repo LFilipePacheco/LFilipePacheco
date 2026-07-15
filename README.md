@@ -42,7 +42,7 @@ farming sustainability within the FAO-CIHEAM research network:
 
 Senior Engineer and member of the Portuguese Order of Engineers (Ordem dos Engenheiros).
 Internship supervisor appointed by the College of Agronomic Engineering and member of the Order’s Expert Panel.
-Member of the Portuguese Association for Data Science and Artificial Intelligence.
+Member of the *Portuguese Association for Data Science and Artificial Intelligence*.
 DataCamp Certified Professional Data Scientist.
 
 ## 🛠️ Tech stack
