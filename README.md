@@ -1,50 +1,76 @@
 # Luís Filipe Pacheco
 
-**Senior Agricultural Engineer & Data Scientist** t with over 35 years of experience
-in agricultural systems, rural development and public administration, currently
-focused on the application of data science and geospatial analysis to
+**Zootechnical Engineer and Data Scientist** with over 35 years of professional
+experience in animal production systems, rural development, agricultural policy
+and public administration. Currently specialising in the application of data
+science, geospatial analysis, remote sensing and machine learning to
 environmental monitoring and agricultural policy.
 
 ## 🌱 Current work
 
-**Northern Portugal Regional Coordination and Development Commission** - Coordination of the groundwater nitrate monitoring programme of the
-Esposende–Vila do Conde Vulnerable Zone (EU Nitrates Directive), where data
-science meets environmental compliance:
+At the **Northern Regional Coordination and Development Commission
+(CCDR-N), Portugal**, coordinating the groundwater nitrate monitoring programme
+for the **Esposende–Vila do Conde Vulnerable Zone**, under the EU Nitrates
+Directive.
 
-- **Data integration** — merging four administrative and geospatial data
-  sources (Python, PostgreSQL, GIS), nearly doubling the universe of known
-  farm holdings in the Vulnerable Zone
-- **Deep learning for remote sensing** — U-Net semantic segmentation model
-  for automatic greenhouse detection from satellite imagery, identifying
-  structures absent from official registers
-- **Geostatistics** — spatial analysis of nitrate distribution in groundwater
-  (IDW, ordinary kriging)
-- **Data pipelines & dashboards** — Excel-to-PostgreSQL ingestion, ArcGIS
-  integration, and interactive Streamlit applications for monitoring teams
+This work combines data science, geospatial analysis and environmental
+regulatory compliance:
+
+- **Data integration** — Integration of four administrative and geospatial data
+  sources using Python, PostgreSQL and GIS, nearly doubling the number of known
+  agricultural holdings in the Vulnerable Zone
+- **Deep learning and remote sensing** — Development of a U-Net semantic
+  segmentation model to automatically detect greenhouses in satellite imagery,
+  including structures missing from official registers
+- **Geostatistics** — Spatial analysis of nitrate concentrations in groundwater
+  using inverse distance weighting (IDW) and ordinary kriging
+- **Data pipelines and dashboards** — Development of Excel-to-PostgreSQL data
+  ingestion pipelines, ArcGIS integration and interactive Streamlit applications
+  for environmental monitoring teams
 
 ## 🇪🇺 European Commission
 
-Independent expert evaluator for the Research Executive Agency (REA) since
-2015, assessing research and innovation proposals under **Horizon Europe**
-(Farm2Fork cluster).
+Independent expert evaluator for the **European Research Executive Agency
+(REA)** since 2015, assessing research and innovation proposals under
+**Horizon 2020** and **Horizon Europe**, particularly in the fields of
+agriculture, food systems, natural resources and the environment.
 
-## 📚 Background
+## 🎓 Education
 
-Earlier career dedicated to small ruminant production systems and Mediterranean
-farming sustainability within the FAO-CIHEAM research network:
+Pre-Bologna university degree in **Zootechnical Engineering**
+(Animal Science and Engineering), comprising four and a half years of coursework
+followed by a professional internship.
 
-- Author of **50+ scientific and technical publications**
+Master’s degree in **Tools and Techniques Supporting Rural Development**
+(*Mestrado em Instrumentos e Técnicas de Apoio ao Desenvolvimento Rural*).
+
+## 📚 Professional and scientific background
+
+Earlier professional experience focused on small-ruminant production systems
+and the sustainability of Mediterranean farming within the FAO-CIHEAM research
+network:
+
+- Author or co-author of **more than 50 scientific and technical publications**
 - Co-editor of CIHEAM's *Options Méditerranéennes* series
-- Member of scientific committees of FAO-CIHEAM international seminars
-- National "Best Regional Information Technician" award (Statistics
-  Portugal — INE, 2010), for coordinating the Agricultural Census in the
-  Entre Douro e Minho region
+- Member of the scientific committees of international FAO-CIHEAM seminars
+- Recipient of the national **“Best Regional Information Technician” Award**
+  from Statistics Portugal (INE) in 2010, for coordinating the Agricultural
+  Census in the Entre Douro e Minho region
 
-Senior Engineer and member of the Portuguese Order of Engineers (Ordem dos Engenheiros).
-Internship supervisor appointed by the College of Agronomic Engineering and member of the Order’s Expert Panel.
-Member of the **Portuguese Association for Data Science and Artificial Intelligence**.
-DataCamp Certified Professional Data Scientist.
+## 🏅 Professional memberships and qualifications
 
+Member of the **Portuguese Order of Engineers** (*Ordem dos Engenheiros*),
+affiliated with its **College of Agronomic Engineering**, which provides the
+professional framework for Zootechnical Engineering.
+
+Holder of the professional title of **Senior Engineer**, internship supervisor
+appointed by the College of Agronomic Engineering, and member of the Order’s
+Expert Panel.
+
+Member of the **Portuguese Association for Data Science and Artificial
+Intelligence**.
+
+**DataCamp Certified Professional Data Scientist.**
 ## 🛠️ Tech stack
 
 `Python` (pandas · GeoPandas · scikit-learn · TensorFlow) · `PostgreSQL` ·
