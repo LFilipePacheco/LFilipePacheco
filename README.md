@@ -53,9 +53,14 @@ Scientist (DataCamp).
 `Python` (pandas · GeoPandas · scikit-learn · TensorFlow) · `PostgreSQL` ·
 `ArcGIS Pro` · `Streamlit` · `Plotly` · `Git`
 
+## 📌 Featured projects
+
+- **[Monitorização de nitratos — ZV Esposende–Vila do Conde](https://github.com/LFilipePacheco/monitorizacao-nitratos-zv)** — pipeline de dados e dashboard interactivo para o programa de monitorização da Diretiva Nitratos: do registo de campo em Excel ao PostgreSQL, ArcGIS e Streamlit Cloud, com publicação mensal automatizada
+
 ## 🔗 Links
 
 [LinkedIn](https://www.linkedin.com/in/lu%C3%ADs-filipe-pacheco-471495b/) ·
 [ORCID](https://orcid.org/0009-0001-7676-6542)
 
 Working languages: Portuguese (native) · English · French · Spanish
+
