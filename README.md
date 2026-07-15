@@ -1,4 +1,4 @@
-# Luís Filipe Pacheco CCDR-N
+# Luís Filipe Pacheco
 
 **Senior Agricultural Engineer & Data Scientist** t with over 35 years of experience
 in agricultural systems, rural development and public administration, currently
@@ -52,7 +52,7 @@ Scientist (DataCamp).
 
 ## 📌 Featured projects
 
-- **[Monitorização de nitratos — ZV Esposende–Vila do Conde](https://github.com/LFilipePacheco/monitorizacao-nitratos-zv)** — pipeline de dados e dashboard interactivo para o programa de monitorização da Diretiva Nitratos: do registo de campo em Excel ao PostgreSQL, ArcGIS e Streamlit Cloud, com publicação mensal automatizada
+- **[Nitrate monitoring — Esposende–Vila do Conde Vulnerable Zone](https://github.com/LFilipePacheco/monitorizacao-nitratos-zv)** — data pipeline and interactive dashboard for a Nitrates Directive monitoring programme: from field Excel records to PostgreSQL, ArcGIS and Streamlit Cloud, with automated monthly publication
 
 ## 🔗 Links
 
