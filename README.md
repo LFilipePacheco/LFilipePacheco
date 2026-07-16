@@ -39,7 +39,7 @@ agriculture, food systems, natural resources and the environment.
 
 Pre-Bologna university degree in **Zootechnical Engineering**
 (Animal Science and Engineering), comprising four and a half years of coursework
-followed by a professional internship.
+followed by a final internship involving an applied study.
 
 Master’s degree in **Tools and Techniques Supporting Rural Development**
 (*Mestrado em Instrumentos e Técnicas de Apoio ao Desenvolvimento Rural*).
