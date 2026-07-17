@@ -28,7 +28,7 @@ regulatory compliance:
 
 ## 🇪🇺 European Commission
 
-Independent expert evaluator for the **European Research Executive Agency (REA)** since 2015, assessing research and innovation proposals under Horizon 2020 and Horizon Europe, with a focus on **climate and environmental sustainability, the efficient and circular use of natural resources, the digital transformation of small- and medium-sized farms, and the development of more diversified and resilient livestock production systems**; since 2024, also contributing to the **review of the implementation and progress of projects»» funded under Horizon Europe.
+Independent expert evaluator for the **European Research Executive Agency (REA)** since 2015, assessing research and innovation proposals under Horizon 2020 and Horizon Europe, with a focus on **climate and environmental sustainability, the efficient and circular use of natural resources, the digital transformation of small- and medium-sized farms, and the development of more diversified and resilient livestock production systems**; since 2024, also contributing to the **review of the implementation and progress of projects** funded under Horizon Europe.
 
 ## 🎓 Education
 
