@@ -77,7 +77,7 @@ DataCamp **Certified Professional Data Scientist.**
 - **[Nitrate monitoring — Esposende–Vila do Conde Vulnerable Zone](https://github.com/LFilipePacheco/monitorizacao-nitratos-zv)** — data pipeline and interactive dashboard for a Nitrates Directive monitoring programme: from field Excel records to PostgreSQL, ArcGIS and Streamlit Cloud, with automated monthly publication
 - **[Greenhouse detection with U-Net](https://github.com/LFilipePacheco/greenhouse-detection-unet)** — deep learning on Sentinel-2 imagery to map protected horticulture across a Nitrates Directive Vulnerable Zone, revealing 1,200+ structures absent from official land registers
 - **[Greenhouse registry verification with ML](https://github.com/LFilipePacheco/greenhouse-registry-verification)** — classical machine learning on RGB-derived features to audit a decade-old GIS registry against current imagery, with per-polygon confidence to target field inspection
-
+- **[Livestock stocking rates](https://github.com/LFilipePacheco/livestock-stocking-rates)** — joining parcel-registry forage surface with livestock records to compute per-holding stocking rates and their year-on-year evolution — the animal-pressure side of nitrate monitoring
 ## 🔗 Links
 
 [LinkedIn](https://www.linkedin.com/in/lu%C3%ADs-filipe-pacheco-471495b/) ·
