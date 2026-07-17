@@ -30,10 +30,7 @@ regulatory compliance:
 
 ## 🇪🇺 European Commission
 
-Independent expert evaluator for the **European Research Executive Agency
-(REA)** since 2015, assessing research and innovation proposals under
-**Horizon 2020** and **Horizon Europe**, particularly in the fields of
-agriculture, food systems, natural resources and the environment.
+Independent expert evaluator for the **European Research Executive Agency (REA)** since 2015, assessing research and innovation proposals under **Horizon 2020** and **Horizon Europe**, with a focus on **climate and environmental sustainability, the efficient and circular use of natural resources, the digital transformation of small- and medium-scale farming, and the development of more diversified and resilient livestock production systems**.
 
 ## 🎓 Education
 
