@@ -46,7 +46,7 @@ and the sustainability of Mediterranean farming within the FAO-CIHEAM research
 network:
 
 - Author or co-author of **more than 50 scientific and technical publications**
-- Co-editor of CIHEAM's *Options Méditerranéennes* series
+- **Co-editor** of CIHEAM's *Options Méditerranéennes* series
 - Member of the scientific committees of international FAO-CIHEAM seminars
 - Recipient of the national **“Best Regional Information Technician” Award**
   from Statistics Portugal (INE) in 2010, for coordinating the Agricultural
@@ -58,9 +58,9 @@ Member of the **Portuguese Order of Engineers** (*Ordem dos Engenheiros*),
 affiliated with its **College of Agronomic Engineering**, which provides the
 professional framework for Zootechnical Engineering.
 
-Holder of the professional title of **Senior Engineer**, internship supervisor
-appointed by the College of Agronomic Engineering, and member of the Order’s
-Expert Panel.
+Holder of the professional title of **Senior Engineer**, **internship supervisor**
+appointed by the College of Agronomic Engineering, and member of the **Order’s
+Expert Panel**.
 
 Member of the **Portuguese Association for Data Science and Artificial
 Intelligence**.
