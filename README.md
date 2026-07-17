@@ -16,9 +16,7 @@ Directive.
 This work combines data science, geospatial analysis and environmental
 regulatory compliance:
 
-- **Data integration** — Integration of four administrative and geospatial data
-  sources using Python, PostgreSQL and GIS, nearly doubling the number of known
-  agricultural holdings in the Vulnerable Zone
+- **Data integration** —This integration is part of a broader multi-source effort — including livestock and survey data — that has nearly doubled the universe.
 - **Deep learning and remote sensing** — Development of a U-Net semantic
   segmentation model to automatically detect greenhouses in satellite imagery,
   including structures missing from official registers
