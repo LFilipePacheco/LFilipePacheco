@@ -65,7 +65,7 @@ Expert Panel.
 Member of the **Portuguese Association for Data Science and Artificial
 Intelligence**.
 
-**DataCamp Certified Professional Data Scientist.**
+DataCamp **Certified Professional Data Scientist.**
 ## 🛠️ Tech stack
 
 `Python` (pandas · GeoPandas · scikit-learn · TensorFlow) · `PostgreSQL` ·
