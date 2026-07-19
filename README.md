@@ -21,7 +21,7 @@ regulatory compliance:
   segmentation model to automatically detect greenhouses in satellite imagery,
   including structures missing from official registers
 - **Geostatistics** — Spatial analysis of nitrate concentrations in groundwater
-  using inverse distance weighting (IDW) and ordinary kriging
+  using inverse distance weighting (IDW) and kriging
 - **Data pipelines and dashboards** — Development of Excel-to-PostgreSQL data
   ingestion pipelines, ArcGIS integration and interactive Streamlit applications
   for environmental monitoring teams
