@@ -79,7 +79,7 @@ DataCamp **Certified Professional Data Scientist.**
 - **[Greenhouse registry verification with ML](https://github.com/LFilipePacheco/greenhouse-registry-verification)** — classical machine learning on RGB-derived features to audit a decade-old GIS registry against current imagery, with per-polygon confidence to target field inspection
 - **[Livestock stocking rates](https://github.com/LFilipePacheco/livestock-stocking-rates)** — joining parcel-registry forage surface with livestock records to compute per-holding stocking rates and their year-on-year evolution — the animal-pressure side of nitrate monitoring
 - **[Nitrate geostatistics](https://github.com/LFilipePacheco/nitrate-geostatistics)** — IDW vs kriging under leave-one-out validation, with uncertainty maps and a greenhouse-proximity drift derived from the U-Net detections — where weak spatial autocorrelation itself became the finding
-  - 
+ 
 ## 🔗 Links
 
 [LinkedIn](https://www.linkedin.com/in/lu%C3%ADs-filipe-pacheco-471495b/) ·
