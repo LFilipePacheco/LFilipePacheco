@@ -1,6 +1,6 @@
 # Luís Filipe Pacheco
 
-**Zootechnical Engineer and Data Scientist** with over 35 years of professional
+**Engineer** with over 35 years of professional
 experience in animal production systems, rural development, agricultural policy
 and public administration. Currently specialising in the application of data
 science, geospatial analysis, remote sensing and machine learning to
