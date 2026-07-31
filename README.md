@@ -47,7 +47,7 @@ network:
 
 - Author or co-author of **more than 50 scientific and technical publications**
 - **Co-editor** of CIHEAM's *Options Méditerranéennes* series
-- Member of the scientific committees of international FAO-CIHEAM seminars
+- Member of the **scientific committees of international FAO-CIHEAM seminars**
 - Recipient of the national **“Best Regional Information Technician” Award**
   from Statistics Portugal (INE) in 2010, for coordinating the Agricultural
   Census in the Entre Douro e Minho region
