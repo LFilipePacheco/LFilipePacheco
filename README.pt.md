@@ -12,7 +12,7 @@ política agrícola.
 ## 🌱 Trabalho atual
 
 Na **Comissão de Coordenação e Desenvolvimento Regional do Norte (CCDR-N),
-Portugal**, coordeno o programa de monitorização de nitratos nas águas
+Portugal**, coordena o programa de monitorização de nitratos nas águas
 subterrâneas da **Zona Vulnerável de Esposende–Vila do Conde**, ao abrigo da
 Diretiva Nitratos da UE.
 
@@ -20,7 +20,7 @@ Este trabalho combina ciência de dados, análise geoespacial e conformidade
 regulamentar ambiental:
 
 - **Integração de dados** — parte de um esforço multifonte mais amplo
-  (incluindo dados pecuários e de inquéritos) que quase duplicou o universo de
+  (incluindo dados dos efetivos animais e de inquéritos) que quase duplicou o universo de
   explorações conhecidas na zona
 - **Deep learning e deteção remota** — desenvolvimento de um modelo de
   segmentação semântica (U-Net) para detetar automaticamente estufas em
@@ -33,20 +33,17 @@ regulamentar ambiental:
 
 ## 🇪🇺 Comissão Europeia
 
-Perito avaliador independente da **Agência de Execução Europeia para a
-Investigação (REA)** desde 2015, avaliando propostas de investigação e inovação
-no âmbito do Horizonte 2020 e do Horizonte Europa, com enfoque na
-**sustentabilidade climática e ambiental, no uso eficiente e circular dos
-recursos naturais, na transformação digital das pequenas e médias explorações
-agrícolas e no desenvolvimento de sistemas de produção pecuária mais
-diversificados e resilientes**; desde 2024, contribuo também para a **revisão da
-implementação e do progresso de projetos** financiados pelo Horizonte Europa.
+Exerce, desde 2015, funções como perito avaliador independente da **Agência Executiva Europeia para a Investigação (*Research Executive Agency*)**, contribuindo para a seleção de propostas de investigação e inovação no âmbito dos programas **Horizonte 2020** e **Horizonte Europa**, com enfoque nos seguintes tópicos:
+- **Sustentabilidade climática e ambiental**;
+- **Gestão eficiente e circular dos recursos naturais**;
+- **Transformação digital das pequenas e médias explorações agrícolas**;
+- **Promoção de sistemas de produção animal mais diversificados e resilientes**.
+
+Desde 2024, participa também no **acompanhamento e na avaliação da execução de projetos financiados pelo Horizonte Europa**, implementados por consórcios de centros de investigação e universidades.
 
 ## 🎓 Formação
 
-Licenciatura pré-Bolonha em **Engenharia Zootécnica** (Animal Science and
-Engineering), com quatro anos e meio de componente letiva seguidos de um
-estágio final com um estudo aplicado.
+Licenciatura pré-Bolonha em **Engenharia Zootécnica**.
 
 Mestrado em **Instrumentos e Técnicas de Apoio ao Desenvolvimento Rural**.
 
@@ -68,8 +65,8 @@ pequenos ruminantes e na sustentabilidade da agricultura mediterrânica, no
 Membro da **Ordem dos Engenheiros**, filiado no seu **Colégio de Engenharia
 Agronómica**, que enquadra profissionalmente a Engenharia Zootécnica.
 
-Detentor do título profissional de **Engenheiro Sénior**, **orientador de
-estágios** nomeado pelo Colégio de Engenharia Agronómica, e membro da **Bolsa de
+Detentor do título profissional de **Engenheiro Sénior**, nomeado pelo Colégio de Engenharia Agronómica como **orientador de
+estágios** e membro da **Bolsa de
 Peritos da Ordem**.
 
 Membro da **Associação Portuguesa para a Ciência de Dados e Inteligência
