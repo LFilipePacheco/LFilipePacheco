@@ -1,3 +1,6 @@
+<!-- Versão portuguesa do perfil: README.pt.md -->
+*Para ler em português [Português](README.pt.md).*
+
 # Luís Filipe Pacheco
 
 **Engineer** with over 35 years of professional
