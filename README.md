@@ -1,5 +1,5 @@
 <!-- Versão portuguesa do perfil: README.pt.md -->
-*Para ler em português [Português](README.pt.md).*
+🇵🇹 *[Ler em português](README.pt.md)*
 
 # Luís Filipe Pacheco
 
