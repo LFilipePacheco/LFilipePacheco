@@ -72,7 +72,7 @@ Peritos da Ordem**.
 Membro da **Associação Portuguesa para a Ciência de Dados e Inteligência
 Artificial**.
 
-**Certified Professional Data Scientist** pela DataCamp.
+Certificado como **'Professional Data Scientist'** pela DataCamp.
 
 ## 🛠️ Tecnologias
 
