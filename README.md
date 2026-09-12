@@ -4,8 +4,7 @@
 # Luís Filipe Pacheco
 
 **Engineer** with over 35 years of professional
-experience in animal production systems, rural development, agricultural policy
-and public administration. Currently specialising in the application of data
+experience in animal production systems and rural development. Currently specialising in the application of data
 science, geospatial analysis, remote sensing and machine learning to
 environmental monitoring and agricultural policy.
 
