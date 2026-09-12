@@ -4,8 +4,7 @@
 # Luís Filipe Pacheco
 
 **Engenheiro** com mais de 35 anos de experiência profissional em sistemas de
-produção animal, desenvolvimento rural, política agrícola e administração
-pública. Atualmente especializado na aplicação de ciência de dados, análise
+produção animal e desenvolvimento rural. Atualmente especializado na aplicação de ciência de dados, análise
 geoespacial, deteção remota e machine learning à monitorização ambiental e à
 política agrícola.
 
