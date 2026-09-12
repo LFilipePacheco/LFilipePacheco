@@ -21,18 +21,18 @@ regulamentar ambiental:
 - **Integração de dados** — parte de um esforço multifonte mais amplo
   (incluindo dados dos efetivos animais e de inquéritos) que quase duplicou o universo de
   explorações conhecidas na zona
-- **Deep learning e deteção remota** — desenvolvimento de um modelo de
+- **Aprendizagem profunda** — desenvolvimento de um modelo de
   segmentação semântica (U-Net) para detetar automaticamente estufas em
   ortoimagem de satélite, incluindo estruturas ausentes dos registos oficiais
 - **Geoestatística** — análise espacial das concentrações de nitratos nas águas
   subterrâneas com ponderação pelo inverso da distância (IDW) e kriging
-- **Pipelines de dados e dashboards** — desenvolvimento de pipelines de ingestão
+- *Pipelines* de dados e *dashboards* — desenvolvimento de *pipelines* de ingestão
   de dados de Excel para PostgreSQL, integração com ArcGIS e aplicações
   interativas em Streamlit para as equipas de monitorização ambiental
 
 ## 🇪🇺 Comissão Europeia
 
-Exerce, desde 2015, funções como perito avaliador independente da **Agência Executiva Europeia para a Investigação (*Research Executive Agency*)**, contribuindo para a seleção de propostas de investigação e inovação no âmbito dos programas **Horizonte 2020** e **Horizonte Europa**, com enfoque nos seguintes tópicos:
+Exerce, desde 2015, funções como perito avaliador independente da **Agência Executiva para a Investigação (*Research Executive Agency*)**, contribuindo para a seleção de propostas de investigação e inovação no âmbito dos programas **Horizonte 2020** e **Horizonte Europa**, com enfoque nos seguintes tópicos:
 - **Sustentabilidade climática e ambiental**;
 - **Gestão eficiente e circular dos recursos naturais**;
 - **Transformação digital das pequenas e médias explorações agrícolas**;
