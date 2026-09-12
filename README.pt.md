@@ -1,5 +1,5 @@
 <!-- Versão portuguesa do perfil. English version: README.md -->
-*Read this in [English](README.md).*
+🇬🇧 *[English version](https://github.com/LFilipePacheco)*
 
 # Luís Filipe Pacheco
 
