@@ -32,7 +32,7 @@ regulamentar ambiental:
 
 ## 🇪🇺 Comissão Europeia
 
-Exerce, desde 2015, funções como perito avaliador independente da **Agência Executiva para a Investigação (*Research Executive Agency*)**, contribuindo para a seleção de propostas de investigação e inovação no âmbito dos programas **Horizonte 2020** e **Horizonte Europa**, com enfoque nos seguintes tópicos:
+Exerce, desde 2015, funções como perito avaliador independente da **Agência de Execução Europeia da Investigação (*Research Executive Agency*)**, contribuindo para a seleção de propostas de investigação e inovação no âmbito dos programas **Horizonte 2020** e **Horizonte Europa**, com enfoque nos seguintes tópicos:
 - **Sustentabilidade climática e ambiental**;
 - **Gestão eficiente e circular dos recursos naturais**;
 - **Transformação digital das pequenas e médias explorações agrícolas**;
