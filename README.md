@@ -43,9 +43,7 @@ Master’s degree in **Tools and Techniques Supporting Rural Development**
 
 ## 📚 Professional and scientific background
 
-Earlier professional experience focused on small-ruminant production systems
-and the sustainability of Mediterranean farming within the FAO-CIHEAM research
-network:
+Earlier professional experience focused on small-ruminant production systems, enabling participation in the **FAO-CIHEAM Research and Development Network**:
 
 - Author or co-author of **more than 50 scientific and technical publications**
 - **Co-editor** of CIHEAM's *Options Méditerranéennes* series
