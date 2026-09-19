@@ -49,8 +49,8 @@ Mestrado em **Instrumentos e Técnicas de Apoio ao Desenvolvimento Rural**.
 ## 📚 Percurso profissional e científico
 
 A experiência profissional anterior centrou-se nos sistemas de produção de
-pequenos ruminantes e na sustentabilidade da agricultura mediterrânica, no
-âmbito da rede de investigação FAO-CIHEAM:
+pequenos ruminantes, levando à sua participação na
+rede de investigação e desenvolvimento da FAO-CIHEAM:
 
 - Autor ou coautor de **mais de 50 publicações científicas e técnicas**
 - **Coeditor** da série *Options Méditerranéennes* do CIHEAM
