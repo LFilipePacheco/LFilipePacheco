@@ -45,7 +45,7 @@ Master’s degree in **Tools and Techniques Supporting Rural Development**
 
 Earlier professional experience focused on small-ruminant production systems, enabling participation in the **FAO-CIHEAM Research and Development Network**:
 
-- Author or co-author of **more than 50 scientific and technical publications**
+- Author or co-author of approximately **50 scientific and technical publications**
 - **Co-editor** of CIHEAM's *Options Méditerranéennes* series
 - Member of the **scientific committees of international FAO-CIHEAM seminars**
 - Recipient of the national **“Best Regional Information Technician” Award**
