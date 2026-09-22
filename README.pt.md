@@ -5,7 +5,7 @@
 
 **Engenheiro** com mais de 35 anos de experiência profissional em sistemas de
 produção animal e desenvolvimento rural. Atualmente especializado na aplicação de ciência de dados, análise
-geoespacial, deteção remota e machine learning à monitorização ambiental e à
+geoespacial, deteção remota e *machine learning* à monitorização ambiental e à
 política agrícola.
 
 ## 🌱 Trabalho atual
@@ -23,9 +23,9 @@ regulamentar ambiental:
   explorações conhecidas na zona
 - **Aprendizagem profunda** — desenvolvimento de um modelo de
   segmentação semântica (U-Net) para detetar automaticamente estufas em
-  ortoimagem de satélite, incluindo estruturas ausentes dos registos oficiais
+  ortoimagem de satélite
 - **Geoestatística** — análise espacial das concentrações de nitratos nas águas
-  subterrâneas com ponderação pelo inverso da distância (IDW) e kriging
+  subterrâneas com ponderação pelo inverso da distância (IDW) e *kriging*
 - *Pipelines* de dados e *dashboards* — desenvolvimento de *pipelines* de ingestão
   de dados de Excel para PostgreSQL, integração com ArcGIS e aplicações
   interativas em Streamlit para as equipas de monitorização ambiental
@@ -50,7 +50,7 @@ Mestrado em **Instrumentos e Técnicas de Apoio ao Desenvolvimento Rural**.
 
 A experiência profissional anterior centrou-se nos sistemas de produção de pequenos ruminantes, permitindo a participação na **Rede de Investigação e Desenvolvimento FAO-CIHEAM**:
 
-- Autor ou coautor de **mais de 50 publicações científicas e técnicas**
+- Autor ou coautor de cerca de **50 publicações científicas e técnicas**
 - **Coeditor** da série *Options Méditerranéennes* do CIHEAM
 - Membro das **comissões científicas de seminários internacionais FAO-CIHEAM**
 - Distinguido a nível nacional com o prémio **«O Melhor Técnico de Informação
