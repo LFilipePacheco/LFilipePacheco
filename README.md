@@ -28,9 +28,13 @@ regulatory compliance:
   ingestion pipelines, ArcGIS integration and interactive Streamlit applications
   for environmental monitoring teams
 
+
 ## 🇪🇺 European Commission
 
-Independent expert evaluator for the **European Research Executive Agency (REA)** since 2015, assessing research and innovation proposals under Horizon 2020 and Horizon Europe, with a focus on **climate and environmental sustainability, the efficient and circular use of natural resources, the digital transformation of small- and medium-sized farms, and the development of more diversified and resilient livestock production systems**; since 2024, also contributing to the **assessment of the implementation and progress of projects** funded under Horizon Europe, presented by consortia of research centres and universities.
+**Independent Expert** for the **European Research Executive Agency (REA)** since 2015.
+
+- **Proposal evaluation** — Horizon 2020 and Horizon Europe (Cluster 6: Food, Bioeconomy, Natural Resources, Agriculture and Environment), focusing on climate and environmental sustainability, the efficient and circular use of natural resources, and more diversified and resilient livestock production systems.
+- **Project monitoring** (since 2024) — reviewing the implementation, progress and results of ongoing Horizon Europe projects delivered by multi-actor consortia, currently focused on the **digital transformation of small- and medium-sized farms**.
 
 ## 🎓 Education
 
