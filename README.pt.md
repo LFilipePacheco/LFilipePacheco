@@ -32,13 +32,10 @@ regulamentar ambiental:
 
 ## 🇪🇺 Comissão Europeia
 
-Exerce, desde 2015, funções como perito avaliador independente da **Agência de Execução Europeia da Investigação (*Research Executive Agency*)**, contribuindo para a seleção de propostas de investigação e inovação no âmbito dos programas **Horizonte 2020** e **Horizonte Europa**, com enfoque nos seguintes tópicos:
-- **Sustentabilidade climática e ambiental**;
-- **Gestão eficiente e circular dos recursos naturais**;
-- **Transformação digital das pequenas e médias explorações agrícolas**;
-- **Promoção de sistemas de produção animal mais diversificados e resilientes**.
+**Perito Independente** da **Agência de Execução Europeia da Investigação (REA)** desde 2015.
 
-Desde 2024, participa também no **acompanhamento e na avaliação da execução de projetos financiados pelo Horizonte Europa**, implementados por consórcios de centros de investigação e universidades.
+- **Avaliação de propostas**: Horizonte 2020 e Horizonte Europa (Cluster 6: Alimentação, Bioeconomia, Recursos Naturais, Agricultura e Ambiente), com foco na sustentabilidade climática e ambiental, na utilização eficiente e circular dos recursos naturais e em sistemas de produção pecuária mais diversificados e resilientes.
+- **Acompanhamento de projetos** (desde 2024): análise da execução, progresso e resultados de projetos do Horizonte Europa em curso, desenvolvidos por consórcios multiator, atualmente centrados na **transformação digital das pequenas e médias explorações agrícolas**.
 
 ## 🎓 Formação
 
