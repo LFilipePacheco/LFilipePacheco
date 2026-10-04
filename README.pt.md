@@ -40,7 +40,7 @@ do cumprimento da regulamentação ambiental:
 ## 🇪🇺 Investigação e inovação europeias
 
 **Perito Independente** da **Agência de Execução Europeia de Investigação
-(REA)**, uma agência de execução da Comissão Europeia, desde 2015.
+(REA)**, uma agência de execução da **Comissão Europeia**, desde 2015.
 
 - **Avaliação de propostas**: Avaliação de propostas apresentadas ao
   Horizonte 2020 e ao Horizonte Europa, principalmente no âmbito do
@@ -57,7 +57,7 @@ do cumprimento da regulamentação ambiental:
 ## 🎓 Formação académica
 
 Licenciatura pré-Bolonha em **Engenharia Zootécnica**, integrando formação em
-ciência animal, engenharia agrícola e um estágio final de natureza aplicada.
+ciência animal, engenharia e um estágio final.
 
 Mestrado em **Instrumentos e Técnicas de Apoio ao Desenvolvimento Rural**.
 
@@ -75,7 +75,7 @@ do **Centro Internacional de Altos Estudos Agronómicos Mediterrânicos
   *Options Méditerranéennes* do CIHEAM
 - Membro das **comissões científicas de seminários internacionais
   FAO-CIHEAM**
-- Vencedor do prémio nacional **“Melhor Técnico Regional de Informação”**,
+- Agraciado com o prémio nacional **“Melhor Técnico Regional de Informação”**,
   atribuído pelo Instituto Nacional de Estatística (INE), em 2010, pela
   coordenação do Recenseamento Agrícola na região de Entre Douro e Minho
 
