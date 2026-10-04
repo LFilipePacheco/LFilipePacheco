@@ -1,5 +1,4 @@
-<!-- English version of the profile: README.md -->
-🇬🇧 *README.md*
+🇬🇧 *[English version](README.md)*
 
 # Luís Filipe Pacheco
 
