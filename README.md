@@ -3,22 +3,16 @@
 
 # Luís Filipe Pacheco
 
-**Engineer** with over 35 years of professional
-experience in animal production systems and rural development. Currently specialising in the application of data
-science, geospatial analysis, remote sensing and machine learning to
-environmental monitoring and agricultural policy.
+**Senior Engineer** with over 35 years of professional experience in animal production systems, rural development and agricultural statistics. My current work applies data science, geospatial analysis, remote sensing and machine learning to environmental monitoring and agricultural policy
 
 ## 🌱 Current work
 
-At the **Northern Regional Coordination and Development Commission
-(CCDR-N), Portugal**, coordinating the groundwater nitrate monitoring programme
-for the **Esposende–Vila do Conde Vulnerable Zone**, under the EU Nitrates
-Directive.
+At the Northern Regional Coordination and Development Commission (CCDR-N), Portugal, I coordinate the groundwater nitrate monitoring programme for the **Esposende–Vila do Conde Vulnerable Zone**, under the EU Nitrates Directive.
 
 This work combines data science, geospatial analysis and environmental
 regulatory compliance:
 
-- **Data integration** —This integration is part of a broader multi-source effort — including livestock and survey data — that has nearly doubled the universe.
+- **Multi-source data integration** —Integration and deduplication of agricultural parcel, livestock, survey and monitoring records to create a more comprehensive, spatially referenced baseline of farm holdings
 - **Deep learning and remote sensing** — Development of a U-Net semantic
   segmentation model to automatically detect greenhouses in satellite imagery,
   including structures missing from official registers
@@ -29,28 +23,25 @@ regulatory compliance:
   for environmental monitoring teams
 
 
-## 🇪🇺 European Commission
+## 🇪🇺 European research and innovation
 
-**Independent Expert** for the **European Research Executive Agency (REA)** since 2015.
+**Independent Expert** for the **European Research Executive Agency (REA) - European Commission** since 2015.
 
 - **Proposal evaluation** — Horizon 2020 and Horizon Europe (Cluster 6: Food, Bioeconomy, Natural Resources, Agriculture and Environment), focusing on climate and environmental sustainability, the efficient and circular use of natural resources, and more diversified and resilient livestock production systems.
-- **Project monitoring** (since 2024) — reviewing the implementation, progress and results of ongoing Horizon Europe projects delivered by multi-actor consortia, currently focused on the **digital transformation of small- and medium-sized farms**.
+- **Project monitoring** (since 2024) — assessment the implementation, progress and results of ongoing Horizon Europe projects delivered by multi-actor consortia, currently focused on the **digital transformation of small- and medium-sized farms**.
 
 ## 🎓 Education
 
-Pre-Bologna university degree in **Zootechnical Engineering**
-(Animal Science and Engineering), comprising four and a half years of coursework
-followed by a final internship involving an applied study.
+Pre-Bologna university degree in *Engenharia Zootécnica* combining animal science, agricultural engineering and an applied final internship.
 
-Master’s degree in **Tools and Techniques Supporting Rural Development**
-(*Mestrado em Instrumentos e Técnicas de Apoio ao Desenvolvimento Rural*).
+Master’s degree in **Tools and Techniques for Rural Development** (Mestrado em Instrumentos e Técnicas de Apoio ao Desenvolvimento Rural*).
 
 ## 📚 Professional and scientific background
 
-Earlier professional experience focused on small-ruminant production systems, leading to participation in the **FAO-CIHEAM Research and Development Network**, a collaborative initiative of the **Food and Agriculture Organization of the United Nations (FAO)** and the **International Centre for Advanced Mediterranean Agronomic Studies (CIHEAM)**.
+Earlier professional experience focused on small-ruminant production systems, and included active participation in the **FAO-CIHEAM Research and Development Network**, a collaborative initiative of the **Food and Agriculture Organization of the United Nations (FAO)** and the **International Centre for Advanced Mediterranean Agronomic Studies (CIHEAM)**.
 
 - Author or co-author of approximately **50 scientific and technical publications**
-- **Co-editor** of CIHEAM's *Options Méditerranéennes* series
+- **Co-editor** of scientific volumes published in CIHEAM’s *Options Méditerranéennes series*”
 - Member of the **scientific committees of international FAO-CIHEAM seminars**
 - Recipient of the national **“Best Regional Information Technician” Award**
   from Statistics Portugal (INE) in 2010, for coordinating the Agricultural
@@ -58,31 +49,40 @@ Earlier professional experience focused on small-ruminant production systems, le
 
 ## 🏅 Professional memberships and qualifications
 
-Member of the **Portuguese Order of Engineers** (*Ordem dos Engenheiros*),
-affiliated with its **College of Agronomic Engineering**, which provides the
-professional framework for Zootechnical Engineering.
-
-Holder of the professional title of **Senior Engineer**, **internship supervisor**
-appointed by the College of Agronomic Engineering, and member of the **Order’s
-Expert Panel**.
-
-Member of the **Portuguese Association for Data Science and Artificial
-Intelligence**.
-
-DataCamp **Certified Professional Data Scientist.**
-## 🛠️ Tech stack
+- **Senior Engineer** and member of the **Portuguese Order of Engineers** (*Ordem dos Engenheiros*), College of Agronomic Engineering
+- Appointed **internship supervisor** and member of the Order’s **Expert Panel**
+- Member of the **Portuguese Association for Data Science and Artificial Intelligence**
+- **DataCamp Certified Professional Data Scientist**
 
 `Python` (pandas · GeoPandas · scikit-learn · TensorFlow) · `PostgreSQL` ·
 `ArcGIS Pro` · `Streamlit` · `Plotly` · `Git`
 
 ## 📌 Featured projects
 
-- **[Farm-holdings baseline integration](https://github.com/LFilipePacheco/farm-holdings-integration)** — merging the national land-parcel registry with the zone's monitoring platform into a deduplicated, spatially anchored universe of 3,400+ holdings — the denominator for nitrate pressure analysis and the sampling frame for annual farmer surveys
-- **[Nitrate monitoring — Esposende–Vila do Conde Vulnerable Zone](https://github.com/LFilipePacheco/monitorizacao-nitratos-zv)** — data pipeline and interactive dashboard for a Nitrates Directive monitoring programme: from field Excel records to PostgreSQL, ArcGIS and Streamlit Cloud, with automated monthly publication
-- **[Greenhouse detection with U-Net](https://github.com/LFilipePacheco/greenhouse-detection-unet)** — development of a reproducible pipeline to detect greenhouses in the Esposende–Vila do Conde ZV from RGB orthophotos at approximately 30 cm/pixel resolution.
-- **[Greenhouse registry verification with ML](https://github.com/LFilipePacheco/greenhouse-registry-verification)** — classical machine learning on RGB-derived features to audit a decade-old GIS registry against current imagery, with per-polygon confidence to target field inspection
-- **[Livestock stocking rates](https://github.com/LFilipePacheco/livestock-stocking-rates)** — joining parcel-registry forage surface with livestock records to compute per-holding stocking rates and their year-on-year evolution — the animal-pressure side of nitrate monitoring
-- **[Nitrate geostatistics](https://github.com/LFilipePacheco/nitrate-geostatistics)** — IDW vs kriging under leave-one-out validation, with uncertainty maps and a greenhouse-proximity drift derived from the U-Net detections — where weak spatial autocorrelation itself became the finding
+- **https://github.com/LFilipePacheco/farm-holdings-integration** —
+  integration and deduplication of parcel-registry, monitoring, livestock and
+  survey data into a spatially referenced baseline of more than 3,400 farm holdings
+
+- **https://github.com/LFilipePacheco/monitorizacao-nitratos-zv** —
+  reproducible data pipeline and interactive dashboard supporting a Nitrates
+  Directive monitoring programme, from field records to PostgreSQL, ArcGIS and
+  Streamlit Cloud
+
+- **https://github.com/LFilipePacheco/greenhouse-detection-unet** —
+  reproducible semantic-segmentation pipeline for detecting greenhouses in
+  high-resolution RGB orthophotos of the Esposende–Vila do Conde Vulnerable Zone
+
+- **https://github.com/LFilipePacheco/greenhouse-registry-verification** —
+  supervised classification based on RGB-derived features to compare a historical
+  greenhouse registry with current imagery and prioritise field verification
+
+- **https://github.com/LFilipePacheco/livestock-stocking-rates** —
+  integration of livestock records and parcel-registry forage areas to calculate
+  stocking rates by holding and analyse their year-on-year evolution
+
+- **https://github.com/LFilipePacheco/nitrate-geostatistics** —
+  comparison of IDW and kriging through leave-one-out cross-validation, including
+  uncertainty mapping and analysis of greenhouse proximity
  
 ## 🔗 Links
 
