@@ -32,7 +32,7 @@ regulatory compliance:
 ## 🇪🇺 European research and innovation
 
 **Independent Expert** for the **European Research Executive Agency (REA)**,
-a European Commission executive agency, since 2015.
+a **European Commission** executive agency, since 2015.
 
 - **Proposal evaluation**: Evaluation of Horizon 2020 and Horizon Europe
   proposals under Cluster 6: Food, Bioeconomy, Natural Resources, Agriculture
@@ -47,7 +47,7 @@ a European Commission executive agency, since 2015.
 ## 🎓 Education
 
 Pre-Bologna university degree in **Zootechnical Engineering**
-(*Engenharia Zootécnica*), combining animal science, agricultural engineering
+(*Engenharia Zootécnica*), combining animal science, engineering
 and an applied final internship.
 
 Master’s degree in **Tools and Techniques for Rural Development**
