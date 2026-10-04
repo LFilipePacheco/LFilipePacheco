@@ -18,10 +18,7 @@ Diretiva Nitratos da União Europeia.
 Este trabalho combina ciência de dados, análise geoespacial e acompanhamento
 do cumprimento da regulamentação ambiental:
 
-- **Integração de dados de múltiplas fontes**: Integração e deduplicação de
-  dados relativos a parcelas agrícolas, efetivos pecuários, inquéritos e
-  atividades de monitorização, com o objetivo de criar uma base de referência
-  das explorações agrícolas mais abrangente e espacialmente georreferenciada
+- **Integração de dados de múltiplas fontes**: Integração e consolidação de dados agrícolas provenientes de diferentes fontes, criando uma base de referência mais abrangente e espacialmente georreferenciada.
 
 - **Aprendizagem profunda e deteção remota**: Desenvolvimento de um modelo de
   segmentação semântica U-Net para a deteção automática de estufas em
@@ -75,7 +72,7 @@ do **Centro Internacional de Altos Estudos Agronómicos Mediterrânicos
   *Options Méditerranéennes* do CIHEAM
 - Membro das **comissões científicas de seminários internacionais
   FAO-CIHEAM**
-- Agraciado com o prémio nacional **“Melhor Técnico Regional de Informação”**,
+- Distinguido com o prémio nacional **“Melhor Técnico Regional de Informação”**,
   atribuído pelo Instituto Nacional de Estatística (INE), em 2010, pela
   coordenação do Recenseamento Agrícola na região de Entre Douro e Minho
 
