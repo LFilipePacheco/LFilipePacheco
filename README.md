@@ -11,8 +11,7 @@ learning to environmental monitoring and agricultural policy.
 ## 🌱 Current work
 
 At the **Northern Regional Coordination and Development Commission (CCDR-N),
-Portugal**, I coordinate the groundwater nitrate monitoring programme for the
-**Esposende–Vila do Conde Vulnerable Zone**, under the EU Nitrates Directive.
+Portugal**, I contribute to the groundwater nitrate monitoring programme for the Esposende–Vila do Conde Vulnerable Zone, in accordance with the EU Nitrates Directive
 
 This work combines data science, geospatial analysis and environmental
 regulatory compliance:
