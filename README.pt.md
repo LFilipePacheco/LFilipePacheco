@@ -10,7 +10,7 @@ aprendizagem automática à monitorização ambiental e às políticas agrícola
 ## 🌱 Trabalho atual
 
 Na **Comissão de Coordenação e Desenvolvimento Regional do Norte
-(CCDR-NORTE)**, coordeno o programa de monitorização de nitratos nas águas
+(CCDR-NORTE)**, esá envolvido no programa de monitorização de nitratos nas águas
 subterrâneas da **Zona Vulnerável de Esposende–Vila do Conde**, no âmbito da
 Diretiva Nitratos da União Europeia.
 
